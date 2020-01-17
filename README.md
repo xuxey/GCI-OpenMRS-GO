@@ -1,2 +1,3 @@
 # GCI-OpenMRS-GO
-Go task for Google Code-in
+Task for Google Code-in based on GoLang
+
