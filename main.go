@@ -29,6 +29,6 @@ func main() {
 	// register endpoints
 	router.GET("/hello", helloEndpoint)
 	router.GET("/greet/:"+nameParam, nameEndpoint)
-	// use port 8080 on localhost
+	// use port 8088 on localhost
 	router.Run(":8088")
 }
