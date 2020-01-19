@@ -7,7 +7,7 @@ import (
 )
 
 // global const for name param
-var nameParam string = "name"
+const nameParam string = "name"
 
 // /hello endpoint
 func helloEndpoint(c *gin.Context) {
